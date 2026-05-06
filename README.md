@@ -33,10 +33,6 @@ Game được xây dựng dựa trên các xử lý chính:
 - Một số trường hợp gem bị lệch vị trí hiển thị
 - Hiển thị chưa đồng nhất khi gem rơi nhanh
 
-## Công nghệ sử dụng
-- C# (.NET Framework)
-- WinForms
-- Visual Studio
 ## Kết quả đạt được
 
 Thông qua project này:
