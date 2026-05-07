@@ -1,4 +1,5 @@
 # 🎮 Bejeweled – Game Match-3 (C# WinForms)
+[Bejeweled Game](https://github.com/nguyenminhthuvcst-eng/Bejeweled)
 ## Giới thiệu
 Đây là project xây dựng game Match-3 (theo phong cách Bejeweled) sử dụng C# và WinForms.
 Người chơi thực hiện đổi vị trí các gem liền kề để tạo thành chuỗi 3 hoặc nhiều gem giống nhau, ghi điểm trong thời gian giới hạn.
